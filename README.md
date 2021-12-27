@@ -16,7 +16,7 @@ Steps to Compile and Run the Application:
 ## Sample Screenshots
 
 ## Main Menu:
-![image](https://user-images.githubusercontent.com/77874716/147434907-6ac3cdac-736d-4881-b9ab-ccb468097a91.png)
+<img width="362" alt="mainmenu" src="https://user-images.githubusercontent.com/77874716/147435179-9a2bd0b4-ab5a-425f-a59d-0e6c7497c7e3.PNG">
 
 
 ## Registered Renter Screen:

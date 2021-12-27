@@ -2,6 +2,13 @@
 
 Updated: December 2021
 
+## Authors
+* Ahmed Waly
+* Kai Wang
+* Jaxson Waterstreet
+* Dylan Windsor
+* Mohamed Yassin
+
 # Introduction
 
 This application allows multiple user ends such as a renter and landlord to contact each other and 
@@ -26,12 +33,6 @@ Steps to Compile and Run the Application:
   ```
   java -cp .;../lib/mysql-connector-java-8.0.23.jar;. GUI/MainMenu
   ```
-## Authors
-* Ahmed Waly
-* Kai Wang
-* Jaxson Waterstreet
-* Dylan Windsor
-* Mohamed Yassin
 
 ## Sample Screenshots
 

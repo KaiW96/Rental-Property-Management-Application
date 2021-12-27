@@ -1,4 +1,10 @@
-# Rental-Property-Management-System
+# Rental Property Management Application
+
+This application allows multiple user ends such as a renter and landlord to contact each other and 
+register properties. The landlord can register multiple properties based on many criteria. The renter can
+search for specific preferences and save those searches. When a suitable property is registered, the renter
+will receive a notification. 
+
 Steps to Compile and Run the Application:
   1. Clone The Repository on your local device.
   2. If your local device already has a mysql table that is named "mydb", drop it.

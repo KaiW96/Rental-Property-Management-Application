@@ -7,9 +7,11 @@ Updated: December 2021
 This application allows multiple user ends such as a renter and landlord to contact each other and 
 register properties. The landlord can register multiple properties based on many criteria. All property postings will
 be active after the landlord has paid the fee. The renter has the ability to search for specific preferences and save those searches. 
-When a suitable property is available, the renter will receive a notification. If the renter is interested, they can send an email and 
-arrange a meeting with the landlord.
+When a suitable property is available, the renter will receive a notification. 
 
+If the renter is interested, they can send an email and arrange a meeting with the landlord.
+
+# Installation
 
 Steps to Compile and Run the Application:
   1. Clone The Repository on your local device.

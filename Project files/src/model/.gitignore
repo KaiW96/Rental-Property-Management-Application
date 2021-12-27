@@ -1,12 +1,2 @@
-/CityQuadrant.class
-/Email.class
-/Landlord.class
-/Manager.class
-/Property.class
-/PropertyList.class
-/PropertyStatus.class
-/PropertyType.class
-/RegisteredRenter.class
-/Renter.class
-/Report.class
-/User.class
+# Compiled class file
+*.class

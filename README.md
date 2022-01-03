@@ -24,6 +24,10 @@ Steps to Compile and Run the Application:
   1. Clone The Repository on your local device.
   2. If your local device already has a mysql table that is named "mydb", drop it.
   3. Source the sql file on the MySQL Command Line(make sure to include your full path in the command)
+
+For example:
+  ```C:\Users\---Your path---\Rental-Property-Management-Application\database\RentalSystemDB.sql```
+  
   4. navigate to the src folder in your compiler
   5. To Compile Run The following command line in your compiler 
   ```

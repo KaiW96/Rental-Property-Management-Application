@@ -52,6 +52,10 @@ For example:
 
 ![image](https://user-images.githubusercontent.com/73013959/145513939-c49b4bce-4e34-42ad-874e-03ecb87dd385.png)
 
+## Landlord Screen:
+
+<img width="600" alt="landlordscreen" src="https://user-images.githubusercontent.com/77874716/147894177-7aeaacea-cf53-445a-8147-752f6b38771a.PNG">
+
 ## Landlord Register-A-Property Screen:
 
 <img width="600" alt="registerproperty" src="https://user-images.githubusercontent.com/77874716/147894136-892dceb4-f3e2-43dd-b236-63fc0af69b12.PNG">

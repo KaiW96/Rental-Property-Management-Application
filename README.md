@@ -54,5 +54,6 @@ For example:
 
 ## Landlord Register-A-Property Screen:
 
-![image](https://user-images.githubusercontent.com/73013959/145514039-00b68727-94c6-41fb-a21d-0048a095db05.png)
+<img width="600" alt="registerproperty" src="https://user-images.githubusercontent.com/77874716/147894136-892dceb4-f3e2-43dd-b236-63fc0af69b12.PNG">
+
 

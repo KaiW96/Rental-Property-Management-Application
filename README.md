@@ -58,6 +58,6 @@ For example:
 
 ## Landlord Register-A-Property Screen:
 
-<img width="600" alt="registerproperty" src="https://user-images.githubusercontent.com/77874716/147894136-892dceb4-f3e2-43dd-b236-63fc0af69b12.PNG">
+<img width="500" alt="registerproperty" src="https://user-images.githubusercontent.com/77874716/147894136-892dceb4-f3e2-43dd-b236-63fc0af69b12.PNG">
 
 

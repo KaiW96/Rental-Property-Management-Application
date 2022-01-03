@@ -56,7 +56,7 @@ For example:
 
 <img width="600" alt="landlordscreen" src="https://user-images.githubusercontent.com/77874716/147894177-7aeaacea-cf53-445a-8147-752f6b38771a.PNG">
 
-## Landlord Register-A-Property Screen:
+## Landlord Register Property Screen:
 
 <img width="500" alt="registerproperty" src="https://user-images.githubusercontent.com/77874716/147894136-892dceb4-f3e2-43dd-b236-63fc0af69b12.PNG">
 

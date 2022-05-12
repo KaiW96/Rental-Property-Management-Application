@@ -2,13 +2,6 @@
 
 Updated: December 2021
 
-## Authors
-* Ahmed Waly
-* Kai Wang
-* Jaxson Waterstreet
-* Dylan Windsor
-* Mohamed Yassin
-
 # Introduction
 
 This application allows multiple user ends such as a renter and landlord to contact each other and 
